@@ -1,5 +1,7 @@
 # bludigon
 
+This repository is now deprecated. Use [blucontrol](https://github.com/jumper149/blucontrol) instead.
+
 [![Hackage](https://img.shields.io/hackage/v/bludigon.svg?style=for-the-badge)](http://hackage.haskell.org/package/bludigon)
 [![AUR](https://img.shields.io/aur/version/bludigon.svg?style=for-the-badge)](https://aur.archlinux.org/packages/bludigon)
 [![Travis CI](https://img.shields.io/travis/com/jumper149/bludigon?style=for-the-badge)](https://travis-ci.com/github/jumper149/bludigon)
